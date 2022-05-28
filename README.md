@@ -9,3 +9,8 @@ This project consists of the following pages:
 3. Menu
 4. Cart
 5. Order Placed
+
+
+
+
+To open the main page open Index.html
