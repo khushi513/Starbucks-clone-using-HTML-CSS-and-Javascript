@@ -13,4 +13,4 @@ This project consists of the following pages:
 
 
 
-To open the main page open Index.html
+To open the main page, open Index.html
