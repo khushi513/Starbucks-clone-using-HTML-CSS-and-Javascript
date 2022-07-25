@@ -14,3 +14,4 @@ This project consists of the following pages:
 
 
 To open the main page, open Index.html
+<img width="1440" alt="Screenshot 2022-07-25 at 3 54 29 PM" src="https://user-images.githubusercontent.com/90981024/180755607-573e64a4-6dcb-4307-944c-20b0a2702ae1.png">
